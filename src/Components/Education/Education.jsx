@@ -2,7 +2,7 @@ import React from 'react';
 
 const Education = () => {
     return (
-        <div className='max-w-250 mx-auto p-4 text-center mt-4'>
+        <div className='fade-in max-w-250 mx-auto p-4 text-center mt-4'>
             <h1 className='text-3xl font-bold text-gray-600'>Education</h1>
             <div id='container' className='text-center grid grid-cols-1 md:grid-cols-3 gap-6 mt-4'>
                 <div className='border border-gray-400 rounded-xl shadow-2xl p-4 space-y-2 transform hover:scale-110 duration-1000 cursor-pointer'>
