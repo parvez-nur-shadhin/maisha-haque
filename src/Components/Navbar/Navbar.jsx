@@ -64,17 +64,17 @@ const Navbar = () => {
               </a>
             </li>
             <li>
-              <a href="#about" className="active:bg-blue-500">
+              <a href="#education" className="active:bg-blue-500">
                 Education
               </a>
             </li>
             <li>
-              <a href="#about" className="active:bg-blue-500">
+              <a href="#experience" className="active:bg-blue-500">
                 Experience
               </a>
             </li>
             <li>
-              <a href="#about" className="active:bg-blue-500">
+              <a href="#contact" className="active:bg-blue-500">
                 Contact
               </a>
             </li>

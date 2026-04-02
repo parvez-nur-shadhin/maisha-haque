@@ -2,7 +2,7 @@ import React from "react";
 
 const Experience = () => {
   return (
-    <div className="fade-in max-w-250 mx-auto p-4 mt-4">
+    <div id="experience" className="fade-in max-w-250 mx-auto p-4 mt-4">
       <h1 className="text-center text-3xl font-extrabold text-gray-600">
         Professional Experience
       </h1>
