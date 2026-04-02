@@ -28,22 +28,22 @@ const Navbar = () => {
               className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow"
             >
               <li>
-                <a href="#about" className="active:bg-primary">
+                <a href="#about" className="active:bg-blue-500">
                   About
                 </a>
               </li>
               <li>
-                <a href="#education" className="active:bg-primary">
+                <a href="#education" className="active:bg-blue-500">
                   Education
                 </a>
               </li>
               <li>
-                <a href="#experience" className="active:bg-primary">
+                <a href="#experience" className="active:bg-blue-500">
                   Experience
                 </a>
               </li>
               <li>
-                <a href="#contact" className="active:bg-primary">
+                <a href="#contact" className="active:bg-blue-500">
                   Contact
                 </a>
               </li>
@@ -51,7 +51,7 @@ const Navbar = () => {
           </div>
           <a
             href="#"
-            className="text-xl text-primary font-semibold cursor-pointer"
+            className="text-xl text-blue-500 font-semibold cursor-pointer"
           >
             Maisha Haque
           </a>
@@ -59,22 +59,22 @@ const Navbar = () => {
         <div className="navbar-end hidden lg:flex">
           <ul className="menu menu-horizontal px-1">
             <li>
-              <a href="#about" className="active:bg-primary">
+              <a href="#about" className="active:bg-blue-500">
                 About
               </a>
             </li>
             <li>
-              <a href="#about" className="active:bg-primary">
+              <a href="#about" className="active:bg-blue-500">
                 Education
               </a>
             </li>
             <li>
-              <a href="#about" className="active:bg-primary">
+              <a href="#about" className="active:bg-blue-500">
                 Experience
               </a>
             </li>
             <li>
-              <a href="#about" className="active:bg-primary">
+              <a href="#about" className="active:bg-blue-500">
                 Contact
               </a>
             </li>
