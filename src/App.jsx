@@ -1,8 +1,10 @@
+import Navbar from "./assets/Components/Navbar/Navbar"
+
 function App() {
 
   return (
     <>
-      <h1>Hello, I'm Maisha</h1>
+      <Navbar />
     </>
   )
 }
