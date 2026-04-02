@@ -43,8 +43,8 @@ const Navbar = () => {
                 </a>
               </li>
               <li>
-                <a href="#contact" className="active:bg-blue-500">
-                  Contact
+                <a href="#skills" className="active:bg-blue-500">
+                  Skills
                 </a>
               </li>
             </ul>
@@ -74,8 +74,8 @@ const Navbar = () => {
               </a>
             </li>
             <li>
-              <a href="#contact" className="active:bg-blue-500">
-                Contact
+              <a href="#skills" className="active:bg-blue-500">
+                Skills
               </a>
             </li>
           </ul>
